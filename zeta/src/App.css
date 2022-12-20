@@ -1,0 +1,12 @@
+div.App{
+    width: 70vw;
+    height: 70vh;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
